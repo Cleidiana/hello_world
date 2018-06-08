@@ -2,7 +2,7 @@ from python_opcua.opcua import Client
 from random import randint
 import datetime
 import time
-
+//testes
 
 url = "opc.tcp://192.168.60.112:4840"
 
